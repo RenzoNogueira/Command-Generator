@@ -1,4 +1,64 @@
-class Block {
+class Comamnds {
+    name_comands = [
+        "ability",
+        "alwaysday",
+        "clear",
+        "clone",
+        "connect",
+        "deop",
+        "difficulty",
+        "effect",
+        "enchant",
+        "execute",
+        "fill",
+        "function",
+        "gamemode",
+        "gamerule",
+        "give",
+        "help",
+        "immutableworld",
+        "kill",
+        "list",
+        "locate",
+        "me",
+        "mixer",
+        "mobevent",
+        "op",
+        "particle",
+        "playsound",
+        "reload",
+        "replaceitem",
+        "say",
+        "scoreboard",
+        "setmaxplayers",
+        "setblock",
+        "setworldspawn",
+        "spawnpoint",
+        "spreadplayers",
+        "stopsound",
+        "summon",
+        "tag",
+        "tell",
+        "tellraw",
+        "testfor",
+        "testforblock",
+        "testforblocks",
+        "tickingarea",
+        "time",
+        "title",
+        "titleraw",
+        "toggledownfall",
+        "tp",
+        "videostream",
+        "videostreamaction",
+        "weather",
+        "worldbuilder",
+        "wsserver",
+        "xp"
+    ]
+}
+
+class IDs {
     id_block = [
         "air",
         "stone",
@@ -1255,5 +1315,5 @@ class Block {
         "soul_speed",
         "thorns",
         "unbreaking"
-     ]
+    ]
 }
