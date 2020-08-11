@@ -1,0 +1,41 @@
+body {
+	padding: 0;
+	margin: auto;
+	background-color: #fdfdfd;
+}
+
+.bg-lime {
+	background-color: #b9db92;
+}
+
+#go_to_top {
+	background: transparent;
+	border: none !important;
+	border-radius: 100%;
+	position: fixed;
+	bottom: 1em;
+	right: 1em;
+	z-index: 9999;
+}
+
+#go_to span {
+	float: right;
+	margin-left: 1em;
+}
+
+/* Material Icons */
+.material-icons.md-18 {
+	font-size: 18px;
+}
+
+.material-icons.md-24 {
+	font-size: 24px;
+}
+
+.material-icons.md-36 {
+	font-size: 36px;
+}
+
+.material-icons.md-48 {
+	font-size: 48px;
+}
